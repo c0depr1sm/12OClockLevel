@@ -5,6 +5,6 @@ When calibrating your MaslowCNC, [setting sprocket 12 O'Clock](https://forums.ma
 
 Based on [BradM's 3D printable creation](https://forums.maslowcnc.com/t/set-your-12-oclock-position-with-a-level-because/8445/2), I provide a FreeCAD template for you to CNC your own flavor. 
 
-It is also a working FreeCAD (0.18) project you might want to [discuss about](https://forums.maslowcnc.com/c/projects)
+It is also a working FreeCAD **(0.18)** project you might want to [discuss about](https://forums.maslowcnc.com/t/creating-the-12oclock-calibration-level-in-freecad/8598)
 
 ![12oClock level rear view](RearView.jpg) 
